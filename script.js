@@ -102,3 +102,7 @@ function saveBooks() {
 
 // Initial display
 displayBooks();
+
+
+// Testing Jenkins automatic build - version 2
+console.log("Library management system updated successfully!");
